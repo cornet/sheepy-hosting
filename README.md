@@ -69,6 +69,6 @@ If you require a database then you will be given the credentials. This lives on 
 ### Load Balancer
 
 Everything now lives behind a shared load balancer. The main effect of this is that if you're looking at IP
-addresses for any reason (GeoIP or similar) you'll need to use the ```X-Forwarded-For header```
+addresses for any reason (GeoIP or similar) you'll need to use the ```X-Forwarded-For``` header
 
 
