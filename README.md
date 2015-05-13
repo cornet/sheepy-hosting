@@ -2,6 +2,8 @@
 
 I'll eventually move this to somewhere more permanent but for now I'm brain dumping here. 
 
+[toc]
+
 ## Connecting via SSH
 Every customer has their own VM.
 
